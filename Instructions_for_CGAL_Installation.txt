@@ -1,0 +1,28 @@
+CGAL INSTALLATION FOR UBUNTU SYSTEMS
+
+The folder has a shell script named "CGALInstall.sh" (Paste the file in the folder where CGAL files and demos are to be copied).
+The script installs CGAL(Computational Geometry Algorithms Library) and other required libraries like OpenGL, Boost, QT4, QGLViewer etc.
+Run the shell script as (in the terminal)
+                                            $sh CGALInstall.sh
+
+The above script should install CGAL and its dependencies.
+
+To check whether the installation has been done perfectly try running a demo program with the following commands:
+
+  cd CGAL-4.6.3 #enters the CGAL folder
+  cd demo #enter the folder with demo programs
+  cd Triangulation_3
+  cmake .
+  make
+  ./T3_demo
+
+This should open a graphical window.
+
+If the graphical window appears, CGAL and all its dependencies have been installed correctly.
+If not, some errors have occurred during the installation process.
+
+NOTE: During the installation process the root user password is required.
+User confirmation will also be required for the installation of certain packages.
+
+
+
