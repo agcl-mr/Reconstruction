@@ -26,6 +26,6 @@ Execute the program with filename
 
 ##################### Permission for usage: #####################
 
-The code is purely for academic and non-commercial usage. Please make sure you cite our work, if the code is used.
+The code is purely for academic and non-commercial usage. Please make sure you cite our work if the code is used.
 
-This program is a research prototype and may contain bugs and flaws. Also, please note that it can be written in more optimized way.
+This program is a research prototype and may contain bugs and flaws. Also, please note that it can be written in a more optimized way.
