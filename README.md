@@ -1,6 +1,7 @@
 # Reconstruction
 # ct_shape
-CGAL implementation of the paper- A Sampling Type Discernment Approach towards Reconstruction of a Point Set in R^2 
+CGAL implementation of the paper- An Input-independent single pass algorithm for reconstruction from dot
+patterns and boundary samples 
 To be published in CAGD
 
 
@@ -8,7 +9,7 @@ To be published in CAGD
 Implementation of:
 ##################
 
-Paper Title:- A Sampling Type Discernment Approach towards Reconstruction of a Point Set in R^2 
+Paper Title:- An Input-independent single pass algorithm for reconstruction from dot patterns and boundary samples 
 Authors:- Safeer Babu Thayyil, Amal Dev Parakkat, Ramanathan Muthuganapathy
 
 Operating system recommended:- Ubuntu 14.04 or newer
